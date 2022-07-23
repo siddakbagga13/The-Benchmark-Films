@@ -72,7 +72,7 @@ body{
     color: #0b1e4a;
 }
 .book h2 span {
-    background: url(images/bg.png);
+    background: #111;
     background-attachment: fixed;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
